@@ -2,8 +2,9 @@
 Detects faces using haar descriptor, then classifies facial expression using a keras model. 
 Detects hands using an SSD tensorflow model. 
 
-![vulcan salute](./demo1.png)
 ![happy hackers](./demo2.png)
+![vulcan salute](./demo1.png)
+
 
 ## Usage
 ```shell
