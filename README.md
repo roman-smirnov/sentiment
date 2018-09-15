@@ -4,3 +4,8 @@ Detects hands using an SSD tensorflow model.
 
 ![vulcan salute](./demo1.png)
 ![happy hackers](./demo2.png)
+
+## Usage
+```shell
+$> python detect.py
+```
